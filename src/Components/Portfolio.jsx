@@ -33,14 +33,14 @@ const projectList = [
   {
     title: "Anarchy-AI LLM-VM to build a Reddit Web-Scraper",
     description:
-      " Using Anarchy’s LLM-VMtobuildanAIwebscraperthat ndsthemostrelevant reddit comments given a list of subreddits.",
-    url: "https://github.com/mysteriousbug/arimamodel",
+      " Using Anarchy-AI LLM-VM to build an AI web scraper that finds the most relevant reddit comments given a list of subreddits.",
+    url: "https://github.com/mysteriousbug/insightred",
   },
   {
-    title: "Bayesian Statistics Model to Analyze Age Difference at Death",
+    title: "Classical Model to analyze Amazon Customer reviews ",
     description:
-      "Bayesian Statistics Model to analyze age difference at death between left handed and right handed people.",
-    url: "https://github.com/mysteriousbug/bayesmodel",
+      "Performing sentiment analysis on Amazon customer reviews using Logistic Classification.",
+    url: "https://github.com/mysteriousbug/AmazonReviewClassification",
   },
   {
     title: "Classifying Space Rocks using AI",
@@ -51,8 +51,8 @@ const projectList = [
   {
     title: "Auto-Regressive Model to Predict Sales",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " Designing an ARIMA Model using Python to project sales based on historical data.",
+    url: "https://github.com/mysteriousbug/confluentisdevops",
   },
 ];
 

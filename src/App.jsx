@@ -28,9 +28,8 @@ const siteProps = {
   title: "Software Developer and Quantum Computing Enthusiast",
   email: "ananya.aithal666@gmail.com",
   gitHub: "mysteriousbug",
-  instagram: "microsoft",
   linkedIn: "ananya-aithal-11ab6425a/",
-  medium: "@mysteriousbug666",
+  medium: "@mysteriousbug",
 };
 
 const primaryColor = "#4E567E";
