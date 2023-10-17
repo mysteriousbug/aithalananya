@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/quantum.jpg";
+import image from "../images/design-desk.jpeg";
 
 const imageAltText = "Quantum Computer";
 
@@ -31,9 +31,9 @@ const imageAltText = "Quantum Computer";
  */
 const projectList = [
   {
-    title: "Statistical Analysis Model to Predict Profit",
+    title: "Anarchy-AI LLM-VM to build a Reddit Web-Scraper",
     description:
-      "Design of an Auto Regression Integrated Moving Average Model to predict future profit based on historical time-series data.",
+      " Using Anarchy’s LLM-VMtobuildanAIwebscraperthat ndsthemostrelevant reddit comments given a list of subreddits.",
     url: "https://github.com/mysteriousbug/arimamodel",
   },
   {
@@ -49,7 +49,7 @@ const projectList = [
     url: "https://github.com/mysteriousbug/spacerocks",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Auto-Regressive Model to Predict Sales",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",

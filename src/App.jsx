@@ -27,12 +27,10 @@ const siteProps = {
   name: "Ananya Aithal",
   title: "Software Developer and Quantum Computing Enthusiast",
   email: "ananya.aithal666@gmail.com",
-  gitHub: "https://github.com/mysteriousbug",
+  gitHub: "mysteriousbug",
   instagram: "microsoft",
-  linkedIn: "https://www.linkedin.com/in/ananya-aithal-11ab6425a/",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  linkedIn: "ananya-aithal-11ab6425a/",
+  medium: "@mysteriousbug666",
 };
 
 const primaryColor = "#4E567E";

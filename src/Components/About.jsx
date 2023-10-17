@@ -24,7 +24,7 @@ const imageAltText = "Fractal Graph Abstract";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Computer Science and Engineering student studying at BMS College of Engineering. I like work more than vacation, and convince others to think so too.";
+  "I'm a B.E. student studying CSE. I like work more than vacation, and convince others to think so too.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,11 +32,11 @@ const description =
  */
 const skillsList = [
   "Full Stack Web Development",
-  "Data Scientist",
+  "Data Science",
   "Android Development",
-  "Quantum Algorithm Design",
-  "Machine Learning Enthusiast",
-  "Number Theory Research",
+  "Quantum Algorithms",
+  "Machine Learning",
+  "Number Theory",
 ];
 
 /**
